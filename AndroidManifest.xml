@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.dsht.kerneltweaker"
     android:versionCode="20"
-    android:versionName="1.2.30.0" >
+    android:versionName="M-1.0" >
 
     <uses-sdk
         android:minSdkVersion="16"
